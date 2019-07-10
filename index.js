@@ -5,9 +5,6 @@ function whisper(string) {
 function logShout(string) {
   console.log('HELLO'); }
 function logWhisper(string) {
-  console.log('hello'); }
-function sayHiToGrandma(string) {
-  return string.toIcant
-  if ()
-}
+  console.log('hello'); 
+
 }
