@@ -5,6 +5,9 @@ function whisper(string) {
 function logShout(string) {
   console.log('HELLO'); }
 function logWhisper(string) {
-  console.log('hello'); 
-
+  console.log('hello'); }
+function sayHiToGrandma(string) {
+  if (string.toLowerCase)
+  return ("I can't hear you!");
+  end;
 }
